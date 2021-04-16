@@ -1,8 +1,6 @@
 # My Personal Portfolio
 
-The goal of this project was to create a website that showcases a short description of your biography as well as showcase our skills that we have learned this far into the course. 
-
-Future employers would be looking at a clear page that is not difficult to look at but instead presents all necessary information with no confusion.
+The goal was to create a website that showcases a description of your biography as well as skills that we have learned in the course. 
 
 The site should also be pleasant to look at with an aesthetic design that is visually appealing.
 
